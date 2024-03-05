@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Buen dia Red👋
+Soy un programador que esta intentando conocer un poco mas acerca de tecnologias, buenas practicas y lo mejor de todos ustedes.
 <!--
 **LeoDeBuu/LeoDeBuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
